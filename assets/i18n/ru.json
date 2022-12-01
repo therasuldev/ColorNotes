@@ -1,0 +1,53 @@
+{
+    "team": "R.R. TEAM",
+
+    "app.title": "color notes",
+    "app.pres": "Color Notes ©",
+    "app.lang": "Язык приложения",
+    "app.theme": "Темная тема",
+
+    "lang.az": "az",
+    "lang.ru": "ru",
+    "lang.en": "en",
+
+    "note.title": "Заголовок ...",
+    "note.text": "Введите текст...",
+
+    "bottom_navbar.note.add": "Главное",
+    "bottom_navbar.notes": "Заметки",
+
+    "error.snack": "Введите не менее 4 символов в названии. Введите текст не менее 4, не более 1000 символов.",
+    "error.unknown": "Произошла неизвестная ошибка.",
+
+    "data.isEmpty": "Нет заметок",
+
+    "save.image": "Фотография была сохранена в галерее.",
+
+    "dialog.check": "Да",
+    "dialog.close": "Нет",
+
+    "delete.note": "Хотите удалить заметку ?",
+    "delete.favorite": "Хотите удалить из избранного ?",
+
+    "change.color": "Изменить цвет",
+    
+    "select.background.color": "Выберите цвет фона",
+    "select.text.color": "Выберите цвет текста",
+    
+    "drawer.1": "Избранное",
+    "drawer.2": "Поделиться",
+    "drawer.3": "Оцените нас",
+    "drawer.4": "Настройки",
+    "drawer.5": "Свяжитесь с нами",
+
+    "settings.cache": "Очистить кеш",
+    "settings.exit": "Выход",
+
+    "info.title": "Все заметки, настройки будут удалены",
+
+    "search": "Поиск",
+    "search.history": "Недавние поиски ↺", 
+    
+    "deleteAll.history": "Удалить все", 
+    "history.isEmpty":"История поиска пуста"
+}

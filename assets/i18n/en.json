@@ -1,0 +1,53 @@
+{
+    "team": "R.R. TEAM",
+
+    "app.title": "color notes",
+    "app.pres": "Color Notes ©",
+    "app.lang": "Language",
+    "app.theme": "Dark theme",
+
+    "lang.az": "az",
+    "lang.ru": "ru",
+    "lang.en": "en",
+    
+    "note.title": "Title...",
+    "note.text": "Enter text...",
+
+    "bottom_navbar.note.add": "Home",
+    "bottom_navbar.notes": "Notes",
+
+    "error.snack": "Please enter at least 4 characters for the title. Please enter a text of at least 4, maximum 1000 characters.",
+    "error.unknown": "An unknown error has occurred.",
+
+    "data.isEmpty": "No notes",
+
+    "save.image": "The photo has been saved to the gallery.",
+
+    "dialog.check": "Yes",
+    "dialog.close": "No",
+
+    "delete.note": "Want to delete a note ?",
+    "delete.favorite": "Want to remove from favourites ?",
+
+    "change.color": "Change color",
+
+    "select.background.color": "Choose a background color",
+    "select.text.color": "Select text color",
+
+    "drawer.1": "Favorites",
+    "drawer.2": "Share",
+    "drawer.3": "Rate us",
+    "drawer.4": "Settings",
+    "drawer.5": "Contact us",
+
+    "settings.cache": "Clear cache",
+    "settings.exit": "Exit",
+
+    "info.title": "All notes, settings will be deleted",
+
+    "search": "Search",
+    "search.history": "Recent searches ↺",
+
+    "deleteAll.history": "Delete everything",
+    "history.isEmpty": "Search history is empty"
+}

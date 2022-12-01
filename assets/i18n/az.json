@@ -1,0 +1,55 @@
+{   "team": "R.R. TEAM",
+
+    "app.title": "color notes",
+    "app.lang": "Tətbiq dili",
+    "app.theme": "Qaranlıq tema",
+    "app.pres":"Color Notes ©",
+
+    "lang.az":"az", 
+    "lang.ru":"ru",
+    "lang.en": "en",
+
+    "note.title": "Başlıq...",
+    "note.text": "Mətni daxil edin...",
+
+    "bottom_navbar.note.add": "Əsas",
+    "bottom_navbar.notes": "Qeydlər", 
+
+    "error.snack":"Başlığı ən az 4 simvol girin. Mətni ən az 4, ən çox 1000 simvol girin.",
+    "error.unknown":"Naməlum xəta baş verdi.",
+    
+    "data.isEmpty":"Qeyd yoxdur",
+
+    "save.image":"Şəkil galareyada saxlanıldı.",
+
+    "dialog.check":"Bəli", 
+    "dialog.close":"Xeyr",
+
+    "delete.note":"Qeydi silmək istəyirsiniz ?",
+    "delete.favorite":"Favoritlərdən silmək istəyirsiniz?",
+
+    "change.color":"Rəng dəyişdir",
+
+    "select.background.color":"Arxa fon rəngini seçin",
+    "select.text.color":"Yazı rəngini seçin",
+
+    "drawer.1":"Favoritlər",
+    "drawer.2":"Paylaş", 
+    "drawer.3":"Bizi qiymətləndirin",
+    "drawer.4":"Parametrlər",
+    "drawer.5":"Bizimlə əlaqə",
+
+    "settings.cache": "Keşi təmizləmək",
+    "settings.exit": "Çıxış",
+
+    "info.title":"Bütün qeydlər, ayarlar silinəcəkdir",
+ 
+    "search":"Axtar",
+    "search.history":"Son axtarışlar ↺",
+    
+    "deleteAll.history":"Hamısını sil",
+    "history.isEmpty":"Axtarış tarixçəsi boşdur"
+    
+
+
+}
